@@ -1,9 +1,10 @@
 ![](https://res.cloudinary.com/dfgg73dvr/image/upload/v1620060487/coding-freak_cbcf0o.gif)
 
-### Hi! there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Victor
+### Hi! there,:wave: I'm Victor
 
 ### About Me
-My name is Victor Ogunjobi, I go by the online name chemicopy. 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=13&lines=Welcome+to+my+Github+Profile;A+quick+introduction+about+me;Innovative+Data+Scientist, Machine Learning Engineer with 4+ years of experience in application design, development, testing and deployment;Highly experienced in writing codes and algorithms as well as building neural networks through various programming languages;Possess unbridled passion for artificial intelligence with comprehensive knowledge of machine learning concepts and other related technologies, unmatched abilities to identify, understand and translate program requirements into sustainable, advanced technical solutions through Python, and other programs for continuous improvement of tech solutions.;Feel+free+to+explore+my+profile...)](https://git.io/typing-svg)
 
 ###
 Innovative, Data Science, Machine Learning Engineer with 4+ years of experience in application design, development, testing and
