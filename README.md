@@ -17,13 +17,18 @@ continuous improvement of tech solutions.
 ![Chemicopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chemicopy&show_icons=true&theme=algolia)
 [![Chemicopy's github streak](https://github-readme-streak-stats.herokuapp.com/?user=chemicopy&theme=blue-green)](https://github.com/chemicopy/github-readme-streak-stats)
                                                                           
+### GitHub activity graph📉:
+[![VictorOgunjobi's github activity graph](https://activity-graph.herokuapp.com/graph?username=chemicopy&theme=react-dark)](https://github.com/chemicopy/github-readme-activity-graph)
+
+### Here are random jokes to brighten up your day:smile:
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=solidBlue&color=%2394bcc&aColor=%23bbdb51)
+
    
 ### Reach me via
 <a href="https://twitter.com/chemicopy_">  
 <img src="https://img.shields.io/badge/@chemicopy_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />                 
 </a>&nbsp;&nbsp;
-                                                                                                                                                                                                                                                                                                                                                   
-
+                                                                                                                                                                                                                                                                                                                                
 <a href="https://www.linkedin.com/in/victor-ogunjobi-a761561a5/">
 <img src="https://img.shields.io/badge/Victor Ogunjobi-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>&nbsp;&nbsp;
