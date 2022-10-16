@@ -5,7 +5,7 @@
 ### About Me
 
 ###
-Innovative, Data Scientist, Machine Learning Engineer with 4+ years of experience in application design, development, testing and
+Innovative, Data Scientist, Machine Learning Engineer. Proficient in application design, development, testing and
 deployment. Highly experienced in writing codes and algorithms as well as building neural networks through various
 programming languages. Possess unbridled passion for artificial intelligence with comprehensive knowledge of
 machine learning concepts and other related technologies, unmatched abilities to identify, understand and translate
